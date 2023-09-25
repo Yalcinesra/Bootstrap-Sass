@@ -1,0 +1,80 @@
+
+#banner{
+    background-image: url(./img/fULLSTACK.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 45vh;
+    
+    background-position: center center;
+   
+
+}
+.ban{
+    text-shadow: 1px 1px 5px rgb(123, 116, 116);
+}
+.redicon{
+    background-color:#DC3545;
+    padding: 2rem;
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    border-radius: 50%;
+
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+}
+#team img{
+    width: 250px;
+    height: 250px;
+    border: gray solid .5rem;
+    border-radius: 50%;
+}
+#team a{
+    color: white;
+  
+   
+    
+  }
+  #contact{
+    background-image: url(./img/map.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  height: 70vh;
+    
+    background-position: center center;
+}
+.icon{
+  
+   background-color:black;
+    text-align: center;
+    text-decoration: none;
+    width: 70px;
+    height: 70px;
+    margin-left: .5rem;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+
+}
+.iconcontainer {
+    
+}
+.card{
+    width: 300px;
+    height: 300px;
+   
+    padding: 1rem;
+
+}
+.card img{
+    width: 100%;
+}
+.navlink a{
+  font-size: 2rem !important;
+}
+.btn{
+    background-color: #B69A59;
+    border: 1px solid #B69A59;
+}

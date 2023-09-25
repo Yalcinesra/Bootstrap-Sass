@@ -1,0 +1,25 @@
+.nav{
+    display: flex;
+    justify-content:end;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    li{
+        list-style-type: none;
+        display: inline-block;
+        padding: 0.5rem;
+        .active{
+            color: $secondary-color;
+         }
+        a{
+             text-decoration: none;
+            &:hover{
+            color: blue;
+
+         }
+         
+        }     
+
+}
+
+}

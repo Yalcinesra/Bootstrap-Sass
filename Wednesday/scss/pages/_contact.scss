@@ -1,0 +1,22 @@
+.container{
+   
+    @include bgImage(100vh,$main-bgImage-path)
+
+  
+}
+h2{
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    font-weight: 400;
+}
+.item{
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    text-align: center;
+
+
+
+}
+.text1{
+    color: $secondary-color;
+}

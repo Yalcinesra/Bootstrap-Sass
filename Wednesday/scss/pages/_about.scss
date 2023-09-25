@@ -1,0 +1,43 @@
+body{
+    background-color: $primary-color;
+}
+.about-container{
+   
+    @include bgImage(50vh,$main-bgImage-path)
+
+  
+}
+
+  .bio{
+  text-align: center;
+    
+}
+
+.cards{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.card{
+    
+    background-color: #414141;
+    border-bottom: 5px solid #FF652F;
+    margin: 2rem;
+    padding: 2rem;
+    width: 70%;
+  }
+  .card1{
+    @extend .card;
+  }
+  .card2{
+    @extend .card;
+  }
+  .card3{
+    @extend .card;
+  }
+
+
+  
+ 
+ 
