@@ -16,9 +16,9 @@
 </tr>
 <tr>
 <td align="center">02</td>
-<td><a href="https://github.com/Yalcinesra/Html-Css/tree/main/Checkout">Checkout</a></td>
-<td><a href="https://yalcinesra.github.io/Html-Css/Checkout">Live Demo</a></td>
-<td><a href="https://yalcinesra.github.io/Html-Css/Checkout">Live Demo</a></td>
+<td><a href="https://github.com/Yalcinesra/Bootstrap-Sass/tree/main/Harvey-Tech">Harvey-Tech</a></td>
+<td><a href="https://yalcinesra.github.io/Bootstrap-Sass/Harvey-Tech/">Live Demo</a></td>
+<td><img src="https://github.com/Yalcinesra/Bootstrap-Sass/blob/main/Harvey-Tech/img/NewGIF%20(1).gif" alt="" target="_blank"></td>
 </tr>
 <tr>
 <td align="center">03</td>
