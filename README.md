@@ -11,13 +11,13 @@
 <tr>
 <td align="center">01</td>
 <td><a href="https://github.com/Yalcinesra/Bootstrap-Sass/tree/main/Clarusway">Clarusway</a></td>
-<td><a href="https://yalcinesra.github.io/Bootstrap-Sass/Clarusway"target="_blank">Live Demo</a></td>
+<td><a href="https://yalcinesra.github.io/Bootstrap-Sass/Clarusway" target="_blank">Live Demo</a></td>
 <td><img src="https://github.com/Yalcinesra/Bootstrap-Sass/blob/main/Clarusway/img/img/NewGIF%20(1).gif" alt="" ></td>
 </tr>
 <tr>
 <td align="center">02</td>
 <td><a href="https://github.com/Yalcinesra/Bootstrap-Sass/tree/main/Harvey-Tech">Harvey-Tech</a></td>
-<td><a href="https://yalcinesra.github.io/Bootstrap-Sass/Harvey-Tech/"target="_blank">Live Demo</a></td>
+<td><a href="https://yalcinesra.github.io/Bootstrap-Sass/Harvey-Tech/" target="_blank">Live Demo</a></td>
 <td><img src="https://github.com/Yalcinesra/Bootstrap-Sass/blob/main/Harvey-Tech/img/NewGIF%20(1).gif" alt="" ></td>
 </tr>
 <tr>
